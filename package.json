@@ -2,7 +2,7 @@
   "name": "neo-theme",
   "displayName": "neo theme",
   "description": "A Modern VS Code Theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },

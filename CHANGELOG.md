@@ -1,4 +1,4 @@
-# Change Log
+
 
 All notable changes to the "neo-theme" extension will be documented in this file.
 
