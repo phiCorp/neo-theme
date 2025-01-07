@@ -1,8 +1,8 @@
 {
   "name": "neo-theme",
   "displayName": "neo theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A Modern VS Code Theme",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
